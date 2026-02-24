@@ -45,3 +45,7 @@ Built using **Python, spaCy, inflect, and Streamlit**.
 ├── requirements.txt
 └── README.md# 
 
+Authors =>
+Hrydyansh Shukla 
+Vinit Kumar Arora
+
